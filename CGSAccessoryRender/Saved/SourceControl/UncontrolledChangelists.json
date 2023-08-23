@@ -11,11 +11,31 @@
 				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_BaseColor.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_Normal.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/scroll.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/Scroll.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/buckle.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pack.uasset",
 				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pouchA.uasset",
-				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pouchB.uasset"
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pouchB.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_buckle.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pack.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pouchA.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pouchB.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_scroll.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_buckle.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pack.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pouchA.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pouchB.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_scroll.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_beltAttachments_BaseColor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_beltAttachments_Normal.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_beltAttachments_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_buckleBackpack_BaseColor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_buckleBackpack_Normal.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_buckleBackpack_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/M_BeltAttachments.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MATERIALS/M_BeltAttachments.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MATERIALS/M_Packs.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/MAP_RenderLevel.umap"
 			]
 		}
 	]

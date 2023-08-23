@@ -1410,3 +1410,1282 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.08.23-14.28.00:667][834]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/T_acc_buckleBackpack_BaseColor.T_acc_buckleBackpack_BaseColor
 [2023.08.23-14.28.00:667][834]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/T_acc_buckleBackpack_Normal.T_acc_buckleBackpack_Normal
 [2023.08.23-14.28.00:667][834]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.28.45:395][215]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic.T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.28.45:510][215]LogViewport: Scene viewport resized to 1230x808, mode Windowed.
+[2023.08.23-14.28.45:533][216]LogViewport: Scene viewport resized to 1230x795, mode Windowed.
+[2023.08.23-14.28.45:559][217]LogViewport: Scene viewport resized to 1230x794, mode Windowed.
+[2023.08.23-14.28.52:797][640]LogViewport: Scene viewport resized to 1243x794, mode Windowed.
+[2023.08.23-14.28.52:831][640]LogViewport: Scene viewport resized to 1347x794, mode Windowed.
+[2023.08.23-14.28.52:862][640]LogViewport: Scene viewport resized to 1421x794, mode Windowed.
+[2023.08.23-14.28.52:892][640]LogViewport: Scene viewport resized to 1457x794, mode Windowed.
+[2023.08.23-14.28.52:927][640]LogViewport: Scene viewport resized to 1462x794, mode Windowed.
+[2023.08.23-14.28.52:957][640]LogViewport: Scene viewport resized to 1463x794, mode Windowed.
+[2023.08.23-14.28.52:981][640]LogViewport: Scene viewport resized to 1464x794, mode Windowed.
+[2023.08.23-14.28.53:039][640]LogViewport: Scene viewport resized to 1465x794, mode Windowed.
+[2023.08.23-14.28.53:167][640]LogViewport: Scene viewport resized to 1466x794, mode Windowed.
+[2023.08.23-14.28.53:305][640]LogViewport: Scene viewport resized to 1469x794, mode Windowed.
+[2023.08.23-14.28.53:335][640]LogViewport: Scene viewport resized to 1523x794, mode Windowed.
+[2023.08.23-14.28.53:364][640]LogViewport: Scene viewport resized to 1557x794, mode Windowed.
+[2023.08.23-14.28.53:395][640]LogViewport: Scene viewport resized to 1558x794, mode Windowed.
+[2023.08.23-14.28.57:594][867]LogSlate: Window 'T_acc_beltAttachments_OcclusionRoughnessMetallic' being destroyed
+[2023.08.23-14.28.57:598][867]LogSlate: Window 'T_acc_beltAttachments_OcclusionRoughnessMetallic' being destroyed
+[2023.08.23-14.29.01:698][110]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic.T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.29.01:779][110]LogViewport: Scene viewport resized to 1560x831, mode Windowed.
+[2023.08.23-14.29.01:828][111]LogViewport: Scene viewport resized to 1560x810, mode Windowed.
+[2023.08.23-14.29.01:852][112]LogViewport: Scene viewport resized to 1560x797, mode Windowed.
+[2023.08.23-14.29.15:497][441]LogTexture: Display: Building textures: /Game/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic.T_acc_beltAttachments_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.08.23-14.29.21:495][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.29.21:571][797]LogSavePackage: Moving output files for package: /Game/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.29.21:572][797]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_beltAttachments_OcclusionRB25947954D775BEC1AEA5F96945C3990.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic.uasset'
+[2023.08.23-14.29.21:580][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 720 ms)
+[2023.08.23-14.29.21:582][797]AssetCheck: New page: Asset Save: T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.29.21:582][797]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic.T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.29.24:571][975]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.29.24:607][975]LogViewport: Scene viewport resized to 1560x856, mode Windowed.
+[2023.08.23-14.29.24:627][976]LogViewport: Scene viewport resized to 1560x827, mode Windowed.
+[2023.08.23-14.29.24:642][977]LogViewport: Scene viewport resized to 1560x818, mode Windowed.
+[2023.08.23-14.29.24:660][978]LogViewport: Scene viewport resized to 1560x808, mode Windowed.
+[2023.08.23-14.29.24:676][979]LogViewport: Scene viewport resized to 1560x798, mode Windowed.
+[2023.08.23-14.29.24:692][980]LogViewport: Scene viewport resized to 1560x789, mode Windowed.
+[2023.08.23-14.29.24:710][981]LogViewport: Scene viewport resized to 1560x779, mode Windowed.
+[2023.08.23-14.29.30:108][302]LogTexture: Display: Building textures: /Game/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.T_acc_buckleBackpack_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2023.08.23-14.29.31:137][359]LogViewport: Scene viewport resized to 1560x797, mode Windowed.
+[2023.08.23-14.29.33:266][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.29.33:347][487]LogSavePackage: Moving output files for package: /Game/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.29.33:348][487]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_buckleBackpack_OcclusionRoBC15AF494A6855754FA878B4DB7649CE.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.uasset'
+[2023.08.23-14.29.33:359][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 814 ms)
+[2023.08.23-14.29.33:361][487]AssetCheck: New page: Asset Save: T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.29.33:361][487]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.29.35:412][610]LogSlate: Window 'T_acc_buckleBackpack_OcclusionRoughnessMetallic' being destroyed
+[2023.08.23-14.29.35:422][610]LogSlate: Window 'T_acc_buckleBackpack_OcclusionRoughnessMetallic' being destroyed
+[2023.08.23-14.32.31:812][572]LogSlate: Window 'New Level' being destroyed
+[2023.08.23-14.32.31:822][572]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.23-14.32.31:823][572]LightingResults: New page: Lighting Build
+[2023.08.23-14.32.31:824][572]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.08.23-14.32.31:914][572]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-14.32.31:915][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.23-14.32.31:952][572]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2023.08.23-14.32.31:952][572]MapCheck: New page: Map Check
+[2023.08.23-14.32.31:953][572]LightingResults: New page: Lighting Build
+[2023.08.23-14.32.31:958][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.23-14.32.31:975][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.23-14.32.31:988][572]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2023.08.23-14.32.31:988][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.23-14.32.31:988][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.23-14.32.31:988][572]LogAIModule: Creating AISystem for world Untitled_2
+[2023.08.23-14.32.31:994][572]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.23-14.32.32:003][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.08.23-14.32.32:003][572]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.23-14.32.32:004][572]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.324ms to complete.
+[2023.08.23-14.32.32:004][572]LogFileHelpers: Loading map 'Template_Default' took 0.182
+[2023.08.23-14.32.32:022][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.32.32:022][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.32.32:023][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.32.32:023][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.32.32:023][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.32.32:024][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.32.32:024][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.35.03:978][392]LogContentBrowser: Attempting asset rename: buckle -> SM_buckle
+[2023.08.23-14.35.04:033][392]LogMetaData: Removing '/Game/ASSETS/SM_buckle.SM_buckle' ref from Metadata '/Game/ASSETS/buckle.PackageMetaData'
+[2023.08.23-14.35.04:034][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.04:132][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/SM_buckle" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_buckle.uasset" SILENT=true
+[2023.08.23-14.35.04:137][392]LogSavePackage: Moving output files for package: /Game/ASSETS/SM_buckle
+[2023.08.23-14.35.04:137][392]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_buckle455C1E484AE3264CE66BFD91900DCD99.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_buckle.uasset'
+[2023.08.23-14.35.04:155][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 936 ms)
+[2023.08.23-14.35.04:167][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.23-14.35.04:174][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.23-14.35.04:180][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.08.23-14.35.04:183][392]AssetCheck: New page: Asset Save: SM_buckle
+[2023.08.23-14.35.04:183][392]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/SM_buckle.SM_buckle
+[2023.08.23-14.35.08:939][666]LogContentBrowser: Attempting asset rename: pack -> SM_pack
+[2023.08.23-14.35.08:957][666]LogMetaData: Removing '/Game/ASSETS/SM_pack.SM_pack' ref from Metadata '/Game/ASSETS/pack.PackageMetaData'
+[2023.08.23-14.35.08:958][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.09:027][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/SM_pack" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pack.uasset" SILENT=true
+[2023.08.23-14.35.09:029][666]LogSavePackage: Moving output files for package: /Game/ASSETS/SM_pack
+[2023.08.23-14.35.09:029][666]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_packDF4FC80445BB3548576514B45705D088.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pack.uasset'
+[2023.08.23-14.35.09:039][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.01 sec)
+[2023.08.23-14.35.09:049][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.23-14.35.09:055][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.23-14.35.09:063][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.08.23-14.35.09:066][666]AssetCheck: New page: Asset Save: SM_pack
+[2023.08.23-14.35.09:066][666]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/SM_pack.SM_pack
+[2023.08.23-14.35.14:194][961]LogContentBrowser: Attempting asset rename: pouchA -> SM_pouchA
+[2023.08.23-14.35.14:216][961]LogMetaData: Removing '/Game/ASSETS/SM_pouchA.SM_pouchA' ref from Metadata '/Game/ASSETS/pouchA.PackageMetaData'
+[2023.08.23-14.35.14:216][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.14:300][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/SM_pouchA" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pouchA.uasset" SILENT=true
+[2023.08.23-14.35.14:304][961]LogSavePackage: Moving output files for package: /Game/ASSETS/SM_pouchA
+[2023.08.23-14.35.14:304][961]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_pouchA3C84A7D64C219F214E24EFAFF9703F2F.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pouchA.uasset'
+[2023.08.23-14.35.14:315][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.11 sec)
+[2023.08.23-14.35.14:325][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.23-14.35.14:333][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.23-14.35.14:338][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.08.23-14.35.14:342][961]AssetCheck: New page: Asset Save: SM_pouchA
+[2023.08.23-14.35.14:342][961]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/SM_pouchA.SM_pouchA
+[2023.08.23-14.35.19:722][270]LogContentBrowser: Attempting asset rename: pouchB -> SM_pouchB
+[2023.08.23-14.35.19:742][270]LogMetaData: Removing '/Game/ASSETS/SM_pouchB.SM_pouchB' ref from Metadata '/Game/ASSETS/pouchB.PackageMetaData'
+[2023.08.23-14.35.19:743][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.19:819][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/SM_pouchB" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pouchB.uasset" SILENT=true
+[2023.08.23-14.35.19:823][270]LogSavePackage: Moving output files for package: /Game/ASSETS/SM_pouchB
+[2023.08.23-14.35.19:824][270]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_pouchB115104A0417EA25B95907C9D53D228A1.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_pouchB.uasset'
+[2023.08.23-14.35.19:835][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.21 sec)
+[2023.08.23-14.35.19:844][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.23-14.35.19:852][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.23-14.35.19:858][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.08.23-14.35.19:863][270]AssetCheck: New page: Asset Save: SM_pouchB
+[2023.08.23-14.35.19:863][270]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/SM_pouchB.SM_pouchB
+[2023.08.23-14.35.24:697][546]LogContentBrowser: Attempting asset rename: scroll -> SM_scroll
+[2023.08.23-14.35.24:718][546]LogMetaData: Removing '/Game/ASSETS/SM_scroll.SM_scroll' ref from Metadata '/Game/ASSETS/scroll.PackageMetaData'
+[2023.08.23-14.35.24:718][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.24:800][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/SM_scroll" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_scroll.uasset" SILENT=true
+[2023.08.23-14.35.24:805][546]LogSavePackage: Moving output files for package: /Game/ASSETS/SM_scroll
+[2023.08.23-14.35.24:805][546]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_scrollC15A4CDB426B76CC3BB66BAC8E2958BD.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/SM_scroll.uasset'
+[2023.08.23-14.35.24:815][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.30 sec)
+[2023.08.23-14.35.24:824][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.08.23-14.35.24:831][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.23-14.35.24:837][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.08.23-14.35.24:840][546]AssetCheck: New page: Asset Save: SM_scroll
+[2023.08.23-14.35.24:840][546]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/SM_scroll.SM_scroll
+[2023.08.23-14.35.28:884][777]LogContentBrowser: Attempting asset rename: SM_buckle -> SM_buckle
+[2023.08.23-14.35.31:799][931]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.23-14.35.31:813][931]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.23-14.35.31:824][932]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.23-14.35.36:425][207]LogContentBrowser: Attempting asset rename: NewFolder -> MODELS
+[2023.08.23-14.35.36:427][207]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.23-14.35.41:286][484]LogMetaData: Removing '/Game/ASSETS/MODELS/SM_buckle.SM_buckle' ref from Metadata '/Game/ASSETS/SM_buckle.PackageMetaData'
+[2023.08.23-14.35.41:289][484]LogMetaData: Removing '/Game/ASSETS/MODELS/SM_pack.SM_pack' ref from Metadata '/Game/ASSETS/SM_pack.PackageMetaData'
+[2023.08.23-14.35.41:290][484]LogMetaData: Removing '/Game/ASSETS/MODELS/SM_pouchA.SM_pouchA' ref from Metadata '/Game/ASSETS/SM_pouchA.PackageMetaData'
+[2023.08.23-14.35.41:292][484]LogMetaData: Removing '/Game/ASSETS/MODELS/SM_pouchB.SM_pouchB' ref from Metadata '/Game/ASSETS/SM_pouchB.PackageMetaData'
+[2023.08.23-14.35.41:293][484]LogMetaData: Removing '/Game/ASSETS/MODELS/SM_scroll.SM_scroll' ref from Metadata '/Game/ASSETS/SM_scroll.PackageMetaData'
+[2023.08.23-14.35.41:295][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.41:428][484]LogSavePackage: Moving output files for package: /Game/ASSETS/MODELS/SM_buckle
+[2023.08.23-14.35.41:428][484]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_buckle6A004C0D4513C1856C553A9E2DE2E3BA.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_buckle.uasset'
+[2023.08.23-14.35.41:430][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/MODELS/SM_pack" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pack.uasset" SILENT=true
+[2023.08.23-14.35.41:435][484]LogSavePackage: Moving output files for package: /Game/ASSETS/MODELS/SM_pack
+[2023.08.23-14.35.41:435][484]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_pack9F6FEECE407EB861526C319A4E0A4B3F.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pack.uasset'
+[2023.08.23-14.35.41:445][484]LogSavePackage: Moving output files for package: /Game/ASSETS/MODELS/SM_pouchA
+[2023.08.23-14.35.41:445][484]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_pouchA58C76BD6487F9AD9902FB292A4965ABD.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pouchA.uasset'
+[2023.08.23-14.35.41:455][484]LogSavePackage: Moving output files for package: /Game/ASSETS/MODELS/SM_pouchB
+[2023.08.23-14.35.41:455][484]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_pouchB6AAE20D64255AE8E86F7F68E92583162.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_pouchB.uasset'
+[2023.08.23-14.35.41:465][484]LogSavePackage: Moving output files for package: /Game/ASSETS/MODELS/SM_scroll
+[2023.08.23-14.35.41:465][484]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/SM_scrollE6EC9A1B41A578B05C0662AD993E7EEE.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MODELS/SM_scroll.uasset'
+[2023.08.23-14.35.41:483][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 1.49 sec)
+[2023.08.23-14.35.41:534][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.23-14.35.41:547][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.23-14.35.41:557][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.08.23-14.35.41:611][484]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.23-14.35.41:611][484]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll
+[2023.08.23-14.35.41:611][484]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB
+[2023.08.23-14.35.41:611][484]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA
+[2023.08.23-14.35.41:611][484]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack
+[2023.08.23-14.35.41:611][484]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle
+[2023.08.23-14.35.44:687][645]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.23-14.35.44:784][645]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.23-14.35.44:797][646]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.23-14.35.46:437][745]LogContentBrowser: Attempting asset rename: NewFolder -> TEXTURES
+[2023.08.23-14.35.46:437][745]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.23-14.35.50:967][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.35.51:083][987]LogSavePackage: Moving output files for package: /Game/ASSETS/TEXTURES/T_acc_beltAttachments_BaseColor
+[2023.08.23-14.35.51:083][987]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_beltAttachments_BaseColor24E7C06D449A759DACED6FB71D89C940.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_beltAttachments_BaseColor.uasset'
+[2023.08.23-14.35.51:113][987]LogSavePackage: Moving output files for package: /Game/ASSETS/TEXTURES/T_acc_beltAttachments_Normal
+[2023.08.23-14.35.51:113][987]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_beltAttachments_NormalCABDF0E9429D05DB8F4E42817AE731C4.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_beltAttachments_Normal.uasset'
+[2023.08.23-14.35.51:137][987]LogSavePackage: Moving output files for package: /Game/ASSETS/TEXTURES/T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.35.51:137][987]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_beltAttachments_OcclusionRB6DD61DC4AA55261C01565851C4D54C1.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_beltAttachments_OcclusionRoughnessMetallic.uasset'
+[2023.08.23-14.35.51:163][987]LogSavePackage: Moving output files for package: /Game/ASSETS/TEXTURES/T_acc_buckleBackpack_BaseColor
+[2023.08.23-14.35.51:163][987]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_buckleBackpack_BaseColor5A1502094E572B889200A3892F6EDC87.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_buckleBackpack_BaseColor.uasset'
+[2023.08.23-14.35.51:193][987]LogSavePackage: Moving output files for package: /Game/ASSETS/TEXTURES/T_acc_buckleBackpack_Normal
+[2023.08.23-14.35.51:193][987]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_buckleBackpack_Normal92F6A34D4A784C7A6C1FDD8B415E3852.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_buckleBackpack_Normal.uasset'
+[2023.08.23-14.35.51:227][987]LogSavePackage: Moving output files for package: /Game/ASSETS/TEXTURES/T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.35.51:227][987]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/T_acc_buckleBackpack_OcclusionRo6922AD8745A1257C2CB85D845078C683.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/TEXTURES/T_acc_buckleBackpack_OcclusionRoughnessMetallic.uasset'
+[2023.08.23-14.35.51:239][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 271 ms (total: 1.76 sec)
+[2023.08.23-14.35.51:271][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.23-14.35.51:279][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.23-14.35.51:286][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.23-14.35.51:325][987]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.23-14.35.51:325][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/TEXTURES/T_acc_beltAttachments_BaseColor.T_acc_beltAttachments_BaseColor
+[2023.08.23-14.35.51:325][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/TEXTURES/T_acc_beltAttachments_Normal.T_acc_beltAttachments_Normal
+[2023.08.23-14.35.51:325][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/TEXTURES/T_acc_beltAttachments_OcclusionRoughnessMetallic.T_acc_beltAttachments_OcclusionRoughnessMetallic
+[2023.08.23-14.35.51:325][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/TEXTURES/T_acc_buckleBackpack_BaseColor.T_acc_buckleBackpack_BaseColor
+[2023.08.23-14.35.51:325][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/TEXTURES/T_acc_buckleBackpack_Normal.T_acc_buckleBackpack_Normal
+[2023.08.23-14.35.51:325][987]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/ASSETS/TEXTURES/T_acc_buckleBackpack_OcclusionRoughnessMetallic.T_acc_buckleBackpack_OcclusionRoughnessMetallic
+[2023.08.23-14.53.22:878][699]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.08.23-14.53.22:882][699]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.08.23-14.53.22:891][700]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.08.23-14.53.31:575][ 76]LogContentBrowser: Attempting asset rename: NewMaterial -> Scroll
+[2023.08.23-14.53.31:577][ 76]LogContentBrowser: End creating deferred item NewMaterial
+[2023.08.23-14.53.33:241][122]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ASSETS/Scroll.Scroll
+[2023.08.23-14.53.33:249][122]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.23-14.53.33:249][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.23-14.53.33:404][122]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.53.33:404][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.53.33:404][122]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.53.33:409][122]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.23-14.53.33:411][122]LogViewport: Scene viewport resized to 411x399, mode Windowed.
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: ================================================
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: RAM used: 78.21 KiB of 1.60 GiB budget. Usage: 0.00%
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 0.75 s
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 0.80
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.80 s
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Average processing rate: 5.01 jobs/sec
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Total thread time: 1.642 s
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Total thread preprocess time: 0.095 s
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Percentage time preprocessing: 5.77%
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.26% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.45% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.43% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.85% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.08.23-14.53.34:479][133]LogShaderCompilers: Display: ================================================
+[2023.08.23-14.53.34:505][134]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.23-14.53.34:505][134]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.23-14.53.34:505][134]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.23-14.53.34:505][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.53.34:505][134]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.53.52:199][669]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.53.52:199][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.53.52:199][669]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.53.52:619][689]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.23-14.53.52:619][689]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.53.52:619][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.53.52:619][689]MaterialEditorStats: Shader Count: 3
+[2023.08.23-14.53.52:721][695]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.23-14.53.52:722][695]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.23-14.53.52:722][695]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.23-14.53.52:722][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.53.52:722][695]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.54.07:681][218]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.54.07:681][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.54.07:681][218]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.54.07:719][220]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.23-14.54.07:719][220]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.23-14.54.07:719][220]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.23-14.54.07:719][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.54.07:719][220]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.54.27:108][227]LogMaterial: Warning: [AssetLog] /Engine/Transient.Scroll: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.54.27:113][227]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.08.23-14.54.30:354][394]LogSlate: Took 0.001042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.23-14.54.38:277][865]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.54.38:277][865]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.54.38:277][865]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.54.38:277][865]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.54.38:835][897]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.23-14.54.38:835][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.54.38:835][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.54.38:835][897]MaterialEditorStats: Shader Count: 1
+[2023.08.23-14.54.39:051][910]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.08.23-14.54.39:051][910]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.54.39:051][910]MaterialEditorStats: Texture samplers: 5/16
+[2023.08.23-14.54.39:051][910]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.54.39:051][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.54.39:051][910]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.54.41:298][ 38]LogViewport: Scene viewport resized to 411x400, mode Windowed.
+[2023.08.23-14.54.41:444][ 38]LogViewport: Scene viewport resized to 413x414, mode Windowed.
+[2023.08.23-14.54.41:488][ 38]LogViewport: Scene viewport resized to 415x423, mode Windowed.
+[2023.08.23-14.54.41:541][ 38]LogViewport: Scene viewport resized to 420x447, mode Windowed.
+[2023.08.23-14.54.41:595][ 38]LogViewport: Scene viewport resized to 424x465, mode Windowed.
+[2023.08.23-14.54.41:638][ 38]LogViewport: Scene viewport resized to 427x482, mode Windowed.
+[2023.08.23-14.54.41:683][ 38]LogViewport: Scene viewport resized to 429x489, mode Windowed.
+[2023.08.23-14.54.41:744][ 38]LogViewport: Scene viewport resized to 431x499, mode Windowed.
+[2023.08.23-14.54.41:792][ 38]LogViewport: Scene viewport resized to 432x503, mode Windowed.
+[2023.08.23-14.54.41:845][ 38]LogViewport: Scene viewport resized to 432x504, mode Windowed.
+[2023.08.23-14.55.09:798][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.23-14.55.09:804][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.016
+[2023.08.23-14.55.09:805][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/Scroll] ([1] browsable assets)...
+[2023.08.23-14.55.09:987][269]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ASSETS/Scroll.Scroll]
+[2023.08.23-14.55.09:987][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/Scroll]
+[2023.08.23-14.55.09:991][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ASSETS/Scroll_Auto2
+[2023.08.23-14.55.09:992][269]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/Scroll_Auto2FC7ECDC949A5CA6C96755E866D0E012D.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/Autosaves/Game/ASSETS/Scroll_Auto2.uasset'
+[2023.08.23-14.55.09:993][269]LogFileHelpers: Auto-saving content packages took 0.188
+[2023.08.23-14.55.14:074][478]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.55.14:075][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.55.14:075][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.14:075][478]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.55.14:182][481]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.08.23-14.55.14:182][481]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.55.14:182][481]MaterialEditorStats: Texture samplers: 5/16
+[2023.08.23-14.55.14:182][481]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.55.14:182][481]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.14:182][481]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.55.30:653][775]LogMaterial: Warning: [AssetLog] /Engine/Transient.Scroll: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.55.30:657][775]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.08.23-14.55.32:697][852]LogMaterial: Warning: [AssetLog] /Engine/Transient.Scroll: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.55.36:384][ 38]LogMaterial: Warning: [AssetLog] /Engine/Transient.Scroll: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.55.42:115][351]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.55.42:115][351]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.55.42:115][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.42:115][351]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.55.42:652][369]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.23-14.55.42:652][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.55.42:652][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.42:652][369]MaterialEditorStats: Shader Count: 1
+[2023.08.23-14.55.42:760][374]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.55.42:760][374]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.23-14.55.42:760][374]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.55.42:760][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.42:760][374]MaterialEditorStats: Shader Count: 3
+[2023.08.23-14.55.42:855][378]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.08.23-14.55.42:855][378]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.55.42:855][378]MaterialEditorStats: Texture samplers: 6/16
+[2023.08.23-14.55.42:855][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.55.42:855][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.42:855][378]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.55.55:886][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.55.55:887][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.55.55:887][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.55:887][ 83]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.55.55:978][ 86]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.08.23-14.55.55:978][ 86]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.55.55:978][ 86]MaterialEditorStats: Texture samplers: 6/16
+[2023.08.23-14.55.55:978][ 86]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.55.55:978][ 86]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.55.55:978][ 86]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.56.00:483][343]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.56.00:483][343]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.56.00:483][343]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.00:483][343]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.56.00:828][362]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.23-14.56.00:828][362]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.56.00:828][362]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.00:828][362]MaterialEditorStats: Shader Count: 1
+[2023.08.23-14.56.01:037][374]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.08.23-14.56.01:037][374]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.56.01:037][374]MaterialEditorStats: Texture samplers: 6/16
+[2023.08.23-14.56.01:037][374]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.56.01:037][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.01:037][374]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.56.16:314][618]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.56.16:314][618]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.16:314][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.16:314][618]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.56.16:909][648]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.23-14.56.16:909][648]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.16:909][648]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.16:909][648]MaterialEditorStats: Shader Count: 1
+[2023.08.23-14.56.17:304][666]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.56.17:304][666]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.23-14.56.17:304][666]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.17:304][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.17:304][666]MaterialEditorStats: Shader Count: 3
+[2023.08.23-14.56.17:320][667]MaterialEditorStats: Base pass shader: 240 instructions
+[2023.08.23-14.56.17:320][667]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.56.17:320][667]MaterialEditorStats: Texture samplers: 7/16
+[2023.08.23-14.56.17:320][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.17:320][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.17:320][667]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.56.27:614][220]LogMaterialEditor: Saving and Compiling material Scroll
+[2023.08.23-14.56.27:712][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.08.23-14.56.28:376][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.08.23-14.56.28:391][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.56.29:641][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/Scroll" FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/Scroll.uasset" SILENT=true
+[2023.08.23-14.56.29:643][220]LogSavePackage: Moving output files for package: /Game/ASSETS/Scroll
+[2023.08.23-14.56.29:643][220]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/Scroll0B8FD72948A90133C5B7539DFE43FC8A.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/Scroll.uasset'
+[2023.08.23-14.56.29:648][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 3.02 sec)
+[2023.08.23-14.56.29:651][220]AssetCheck: New page: Asset Save: Scroll
+[2023.08.23-14.56.29:651][220]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ASSETS/Scroll.Scroll
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: Base pass shader: 240 instructions
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: MaxSampler: 303 instructions
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: Texture samplers: 8/16
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.29:652][220]MaterialEditorStats: Shader Count: 16
+[2023.08.23-14.56.31:154][289]LogSlate: Window 'Scroll' being destroyed
+[2023.08.23-14.56.31:162][289]LogSlate: Window 'Scroll' being destroyed
+[2023.08.23-14.56.31:170][289]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-14.56.31:170][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.23-14.56.34:293][470]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ASSETS/Scroll.Scroll
+[2023.08.23-14.56.34:296][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.23-14.56.34:296][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.23-14.56.34:405][470]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.56.34:405][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.34:405][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.34:405][470]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.56.34:461][470]LogViewport: Scene viewport resized to 432x505, mode Windowed.
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: ================================================
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Total job queries 107, among them cache hits 55 (51.40%)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Tracking 48 distinct input hashes that result in 28 distinct outputs (58.33%)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: RAM used: 1.02 MiB of 1.60 GiB budget. Usage: 0.06%
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Shaders Compiled: 48
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Jobs assigned 52, completed 48 (92.31%)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Average time worker was idle: 25.38 s
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.58 s
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Job execution time: average 0.59 s, max 1.01 s
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 1.10
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.95 s
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Average processing rate: 8.06 jobs/sec
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Total thread time: 19.57 s
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Total thread preprocess time: 1.175 s
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Percentage time preprocessing: 6.01%
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Effective parallelization: 3.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.58% of total time (compiled   11 times, average 0.44 sec, max 0.81 sec, min 0.32 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.61% of total time (compiled   11 times, average 0.38 sec, max 0.68 sec, min 0.29 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.13% of total time (compiled    7 times, average 0.37 sec, max 0.58 sec, min 0.27 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.87% of total time (compiled    7 times, average 0.28 sec, max 0.45 sec, min 0.20 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.05% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.08.23-14.56.34:574][475]LogShaderCompilers: Display: ================================================
+[2023.08.23-14.56.34:727][483]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.23-14.56.34:727][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.34:727][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.34:727][483]MaterialEditorStats: Shader Count: 1
+[2023.08.23-14.56.34:845][490]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.56.34:845][490]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.23-14.56.34:845][490]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.34:845][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.34:845][490]MaterialEditorStats: Shader Count: 3
+[2023.08.23-14.56.34:944][496]MaterialEditorStats: Base pass shader: 240 instructions
+[2023.08.23-14.56.34:944][496]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.56.34:944][496]MaterialEditorStats: Texture samplers: 7/16
+[2023.08.23-14.56.34:944][496]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.56.34:944][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.56.34:944][496]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.56.36:215][572]LogSlate: Window 'Scroll' being destroyed
+[2023.08.23-14.56.36:221][572]LogSlate: Window 'Scroll' being destroyed
+[2023.08.23-14.56.36:231][572]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-14.56.36:231][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.23-14.56.42:519][946]LogContentBrowser: Attempting asset rename: Scroll -> M_BeltAttachments
+[2023.08.23-14.56.42:535][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.56.42:609][946]LogSavePackage: Moving output files for package: /Game/ASSETS/M_BeltAttachments
+[2023.08.23-14.56.42:609][946]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/M_BeltAttachmentsA9C3D02B4F96905F1A6FBE9FE0B25F3C.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/M_BeltAttachments.uasset'
+[2023.08.23-14.56.42:617][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 3.10 sec)
+[2023.08.23-14.56.42:629][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.23-14.56.42:636][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.23-14.56.42:643][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.08.23-14.56.42:646][946]AssetCheck: New page: Asset Save: M_BeltAttachments
+[2023.08.23-14.56.42:646][946]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ASSETS/M_BeltAttachments.M_BeltAttachments
+[2023.08.23-14.56.48:011][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA
+[2023.08.23-14.56.48:012][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA
+[2023.08.23-14.56.48:012][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2023.08.23-14.56.48:657][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA
+[2023.08.23-14.56.48:658][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA
+[2023.08.23-14.56.48:659][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_pouchA.SM_pouchA as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_2
+[2023.08.23-14.56.48:700][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.56.48:701][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.56.48:701][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.56.48:701][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.56.48:701][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.56.59:246][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB
+[2023.08.23-14.56.59:246][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB
+[2023.08.23-14.56.59:246][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_3
+[2023.08.23-14.57.01:273][ 30]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB
+[2023.08.23-14.57.01:273][ 30]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB
+[2023.08.23-14.57.01:273][ 30]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_pouchB.SM_pouchB as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_4
+[2023.08.23-14.57.01:289][ 30]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.57.01:290][ 30]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.57.02:930][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll
+[2023.08.23-14.57.02:930][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll
+[2023.08.23-14.57.02:931][123]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_5
+[2023.08.23-14.57.02:936][123]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.57.04:124][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll
+[2023.08.23-14.57.04:124][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll
+[2023.08.23-14.57.04:126][194]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_scroll.SM_scroll as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_6
+[2023.08.23-14.57.04:141][194]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.58.07:163][918]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.23-14.58.07:175][918]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.23-14.58.07:181][919]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.23-14.58.10:987][146]LogContentBrowser: Attempting asset rename: NewFolder -> MATERIALS
+[2023.08.23-14.58.10:988][146]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.23-14.58.14:354][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.58.14:417][329]LogSavePackage: Moving output files for package: /Game/ASSETS/MATERIALS/M_BeltAttachments
+[2023.08.23-14.58.14:417][329]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/M_BeltAttachments13EEEB654808336F993C2C912D8F6040.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MATERIALS/M_BeltAttachments.uasset'
+[2023.08.23-14.58.14:424][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.17 sec)
+[2023.08.23-14.58.14:432][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.23-14.58.14:439][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.23-14.58.14:444][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.08.23-14.58.14:483][329]AssetCheck: New page: Asset Save: M_BeltAttachments
+[2023.08.23-14.58.14:483][329]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ASSETS/MATERIALS/M_BeltAttachments.M_BeltAttachments
+[2023.08.23-14.58.20:620][645]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.08.23-14.58.20:701][645]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.08.23-14.58.20:711][646]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.08.23-14.58.27:933][ 79]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Packs
+[2023.08.23-14.58.27:933][ 79]LogContentBrowser: End creating deferred item NewMaterial
+[2023.08.23-14.58.29:493][158]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ASSETS/MATERIALS/M_Packs.M_Packs
+[2023.08.23-14.58.29:497][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.23-14.58.29:497][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.23-14.58.29:698][158]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.58.29:698][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.58.29:698][158]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.58.29:706][158]LogViewport: Scene viewport resized to 433x507, mode Windowed.
+[2023.08.23-14.58.30:451][198]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.23-14.58.30:452][198]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.23-14.58.30:452][198]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.23-14.58.30:452][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.58.30:452][198]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.58.44:091][870]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.58.44:093][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.58.44:093][870]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.58.44:179][873]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.08.23-14.58.44:179][873]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.08.23-14.58.44:179][873]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.23-14.58.44:179][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.23-14.58.44:179][873]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.58.49:745][193]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Packs: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.58.49:748][193]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.08.23-14.58.54:808][483]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.58.54:808][483]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.58.54:808][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.58.54:808][483]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.58.55:328][510]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.23-14.58.55:328][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.58.55:328][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.58.55:328][510]MaterialEditorStats: Shader Count: 2
+[2023.08.23-14.58.55:427][516]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.08.23-14.58.55:427][516]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.58.55:427][516]MaterialEditorStats: Texture samplers: 5/16
+[2023.08.23-14.58.55:427][516]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.58.55:427][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.58.55:427][516]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.59.01:133][842]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.59.01:133][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.59.01:133][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.01:133][842]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.59.01:153][843]MaterialEditorStats: Base pass shader: 229 instructions
+[2023.08.23-14.59.01:153][843]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.59.01:153][843]MaterialEditorStats: Texture samplers: 5/16
+[2023.08.23-14.59.01:153][843]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.23-14.59.01:153][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.01:153][843]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.59.04:712][ 41]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Packs: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.59.04:717][ 41]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.08.23-14.59.07:177][185]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Packs: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.59.10:697][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Packs: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.59.14:347][600]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.59.14:347][600]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.59.14:347][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.14:347][600]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.59.14:754][621]MaterialEditorStats: Texture samplers: 2/16
+[2023.08.23-14.59.14:754][621]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.59.14:754][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.14:754][621]MaterialEditorStats: Shader Count: 2
+[2023.08.23-14.59.14:866][627]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.08.23-14.59.14:867][627]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.59.14:867][627]MaterialEditorStats: Texture samplers: 6/16
+[2023.08.23-14.59.14:867][627]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.59.14:867][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.14:867][627]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.59.18:354][825]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.59.18:354][825]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.59.18:354][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.18:354][825]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.59.18:414][828]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.08.23-14.59.18:414][828]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.59.18:414][828]MaterialEditorStats: Texture samplers: 6/16
+[2023.08.23-14.59.18:414][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.08.23-14.59.18:414][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.18:414][828]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.59.21:440][  0]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Packs: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.08.23-14.59.21:444][  0]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.08.23-14.59.28:216][388]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.23-14.59.28:216][388]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.59.28:216][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.28:216][388]MaterialEditorStats: Shader Count: 0
+[2023.08.23-14.59.28:628][409]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.23-14.59.28:628][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.59.28:628][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.28:628][409]MaterialEditorStats: Shader Count: 1
+[2023.08.23-14.59.28:727][415]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.59.28:728][415]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.23-14.59.28:728][415]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.59.28:728][415]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.28:728][415]MaterialEditorStats: Shader Count: 3
+[2023.08.23-14.59.28:827][421]MaterialEditorStats: Base pass shader: 240 instructions
+[2023.08.23-14.59.28:827][421]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.59.28:827][421]MaterialEditorStats: Texture samplers: 7/16
+[2023.08.23-14.59.28:827][421]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.59.28:827][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.28:827][421]MaterialEditorStats: Shader Count: 4
+[2023.08.23-14.59.32:742][650]LogMaterialEditor: Saving and Compiling material M_Packs
+[2023.08.23-14.59.32:799][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.23-14.59.33:282][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.08.23-14.59.33:291][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-14.59.34:265][650]LogSavePackage: Moving output files for package: /Game/ASSETS/MATERIALS/M_Packs
+[2023.08.23-14.59.34:265][650]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/M_Packs3FF03C1C488005B9C7E5ABAC33B7A72E.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/MATERIALS/M_Packs.uasset'
+[2023.08.23-14.59.34:271][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 979 ms (total: 4.15 sec)
+[2023.08.23-14.59.34:274][650]AssetCheck: New page: Asset Save: M_Packs
+[2023.08.23-14.59.34:274][650]LogContentValidation: Display: Validating /Script/Engine.Material /Game/ASSETS/MATERIALS/M_Packs.M_Packs
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: Base pass shader: 240 instructions
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: MaxSampler: 303 instructions
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: Texture samplers: 8/16
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.23-14.59.34:274][650]MaterialEditorStats: Shader Count: 16
+[2023.08.23-14.59.35:191][705]LogSlate: Window 'M_Packs' being destroyed
+[2023.08.23-14.59.35:197][705]LogSlate: Window 'M_Packs' being destroyed
+[2023.08.23-14.59.35:201][705]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-14.59.35:201][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.23-14.59.40:028][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle
+[2023.08.23-14.59.40:028][988]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle
+[2023.08.23-14.59.40:028][988]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_7
+[2023.08.23-14.59.40:033][988]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.59.41:007][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle
+[2023.08.23-14.59.41:007][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle
+[2023.08.23-14.59.41:008][ 46]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_buckle.SM_buckle as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_8
+[2023.08.23-14.59.41:026][ 46]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.59.42:688][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack
+[2023.08.23-14.59.42:688][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack
+[2023.08.23-14.59.42:688][140]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_9
+[2023.08.23-14.59.42:694][140]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-14.59.45:002][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack
+[2023.08.23-14.59.45:003][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack
+[2023.08.23-14.59.45:004][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/MODELS/SM_pack.SM_pack as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_10
+[2023.08.23-14.59.45:021][278]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:050][967]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.23-15.00.38:143][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.23-15.00.38:153][967]LogSavePackage: Moving output files for package: /Game/MAP_RenderLevel
+[2023.08.23-15.00.38:153][967]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/MAP_RenderLevel0568C81C4A0F59075923F1AC7317C287.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/MAP_RenderLevel.umap'
+[2023.08.23-15.00.38:167][967]LogFileHelpers: Saving map 'MAP_RenderLevel' took 0.104
+[2023.08.23-15.00.38:167][967]Cmd: MAP LOAD FILE="../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/MAP_RenderLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.23-15.00.38:168][967]LightingResults: New page: Lighting Build
+[2023.08.23-15.00.38:168][967]LoadErrors: New page: Loading map: MAP_RenderLevel.umap
+[2023.08.23-15.00.38:169][967]LogWorld: UWorld::CleanupWorld for MAP_RenderLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-15.00.38:169][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.23-15.00.38:169][967]MapCheck: New page: Map Check
+[2023.08.23-15.00.38:169][967]LightingResults: New page: Lighting Build
+[2023.08.23-15.00.38:176][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.23-15.00.38:176][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.23-15.00.38:190][967]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_RenderLevel'.
+[2023.08.23-15.00.38:190][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.23-15.00.38:190][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.23-15.00.38:190][967]LogAIModule: Creating AISystem for world MAP_RenderLevel
+[2023.08.23-15.00.38:195][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.23-15.00.38:203][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.23-15.00.38:206][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.23-15.00.38:206][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2023.08.23-15.00.38:206][967]LogFileHelpers: Loading map 'MAP_RenderLevel' took 0.038
+[2023.08.23-15.00.38:207][967]AssetCheck: New page: Asset Save: MAP_RenderLevel
+[2023.08.23-15.00.38:207][967]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAP_RenderLevel.MAP_RenderLevel
+[2023.08.23-15.00.38:212][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:212][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:212][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:212][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:213][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:213][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.38:213][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.23-15.00.40:908][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-15.00.40:978][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.08.23-15.00.40:984][115]LogSavePackage: Moving output files for package: /Game/MAP_RenderLevel
+[2023.08.23-15.00.40:986][115]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Saved/MAP_RenderLevel0711307E467DB307F6528EB5B3268837.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/MAP_RenderLevel.umap'
+[2023.08.23-15.00.40:989][115]LogFileHelpers: Saving map 'MAP_RenderLevel' took 0.019
+[2023.08.23-15.00.40:996][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 4.24 sec)
+[2023.08.23-15.00.40:998][115]AssetCheck: New page: Asset Save: MAP_RenderLevel
+[2023.08.23-15.00.40:998][115]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAP_RenderLevel.MAP_RenderLevel
+[2023.08.23-15.00.42:227][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.23-15.00.42:229][189]LogStall: Shutdown...
+[2023.08.23-15.00.42:236][189]LogStall: Shutdown complete.
+[2023.08.23-15.00.42:254][189]LogSlate: Window 'CGSAccessoryRender - Unreal Editor' being destroyed
+[2023.08.23-15.00.42:345][190]Cmd: QUIT_EDITOR
+[2023.08.23-15.00.42:345][190]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.23-15.00.42:348][190]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.23-15.00.42:348][190]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.23-15.00.42:348][190]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.23-15.00.42:350][190]LogWorld: UWorld::CleanupWorld for MAP_RenderLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-15.00.42:350][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.23-15.00.42:353][190]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.23-15.00.42:354][190]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.23-15.00.42:541][190]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.23-15.00.42:541][190]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.23-15.00.42:541][190]LogAudio: Display: Audio Device unregistered from world 'MAP_RenderLevel'.
+[2023.08.23-15.00.42:541][190]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.08.23-15.00.42:544][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.23-15.00.42:546][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.23-15.00.42:560][190]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.23-15.00.42:566][190]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.23-15.00.42:566][190]LogExit: Preparing to exit.
+[2023.08.23-15.00.42:602][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.23-15.00.43:526][190]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-15.00.43:526][190]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.08.23-15.00.43:561][190]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.08.23-15.00.43:636][190]LogExit: Editor shut down
+[2023.08.23-15.00.43:639][190]LogExit: Transaction tracking system shut down
+[2023.08.23-15.00.43:931][190]LogExit: Object subsystem successfully closed.
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: ================================================
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Total job queries 187, among them cache hits 93 (49.73%)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Tracking 94 distinct input hashes that result in 28 distinct outputs (29.79%)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: RAM used: 2.00 MiB of 1.60 GiB budget. Usage: 0.12%
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Shaders Compiled: 94
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100.00%)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Average time worker was idle: 38.89 s
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.58 s
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 1.01 s
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 1.10
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.19 s
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Average processing rate: 9.22 jobs/sec
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Total thread time: 35.464 s
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Total thread preprocess time: 2 s
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Percentage time preprocessing: 5.64%
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.51 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.54 sec, max 0.60 sec, min 0.49 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.53 sec, max 0.59 sec, min 0.47 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.53 sec, max 0.58 sec, min 0.49 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.52 sec, max 0.56 sec, min 0.48 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.11% of total time (compiled   22 times, average 0.40 sec, max 0.81 sec, min 0.31 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.14% of total time (compiled   22 times, average 0.36 sec, max 0.68 sec, min 0.28 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.23% of total time (compiled   13 times, average 0.33 sec, max 0.58 sec, min 0.26 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.21% of total time (compiled   13 times, average 0.25 sec, max 0.45 sec, min 0.18 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.08% of total time (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.51 sec)
+[2023.08.23-15.00.43:938][190]LogShaderCompilers: Display: ================================================
+[2023.08.23-15.00.44:044][190]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.08.23-15.00.44:157][190]LogVirtualization: UE::Virtualization was shutdown
+[2023.08.23-15.00.44:223][190]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1019)
+[2023.08.23-15.00.44:223][190]LogModuleManager: Shutting down and abandoning module MaterialEditor (1017)
+[2023.08.23-15.00.44:223][190]LogModuleManager: Shutting down and abandoning module NewLevelDialog (1015)
+[2023.08.23-15.00.44:223][190]LogModuleManager: Shutting down and abandoning module TextureEditor (1013)
+[2023.08.23-15.00.44:223][190]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2023.08.23-15.00.44:223][190]LogModuleManager: Shutting down and abandoning module AddContentDialog (1009)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1008)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1005)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module SceneOutliner (1003)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2023.08.23-15.00.44:228][190]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2023.08.23-15.00.44:229][190]LogModuleManager: Shutting down and abandoning module TextureAlignMode (989)
+[2023.08.23-15.00.44:229][190]LogModuleManager: Shutting down and abandoning module BspMode (987)
+[2023.08.23-15.00.44:229][190]LogModuleManager: Shutting down and abandoning module GeometryMode (985)
+[2023.08.23-15.00.44:229][190]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (983)
+[2023.08.23-15.00.44:229][190]LogModuleManager: Shutting down and abandoning module IKRigEditor (981)
+[2023.08.23-15.00.44:230][190]LogModuleManager: Shutting down and abandoning module ControlRigEditor (979)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module PlanarCut (977)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module FractureEngine (975)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module CharacterAI (973)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module WaveTableEditor (971)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (969)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module GooglePADEditor (967)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (965)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (963)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (961)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (959)
+[2023.08.23-15.00.44:231][190]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (957)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (955)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (953)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module WebMMedia (951)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (949)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (947)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (945)
+[2023.08.23-15.00.44:232][190]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (943)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module SequenceRecorder (942)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (939)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (937)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (935)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (933)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (931)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (929)
+[2023.08.23-15.00.44:233][190]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (927)
+[2023.08.23-15.00.44:234][190]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (925)
+[2023.08.23-15.00.44:234][190]LogModuleManager: Shutting down and abandoning module SmartSnapping (923)
+[2023.08.23-15.00.44:234][190]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2023.08.23-15.00.44:234][190]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2023.08.23-15.00.44:236][190]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2023.08.23-15.00.44:236][190]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2023.08.23-15.00.44:236][190]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2023.08.23-15.00.44:236][190]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2023.08.23-15.00.44:237][190]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2023.08.23-15.00.44:238][190]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2023.08.23-15.00.44:238][190]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2023.08.23-15.00.44:238][190]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2023.08.23-15.00.44:238][190]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2023.08.23-15.00.44:238][190]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2023.08.23-15.00.44:238][190]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2023.08.23-15.00.44:239][190]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2023.08.23-15.00.44:239][190]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2023.08.23-15.00.44:240][190]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2023.08.23-15.00.44:240][190]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2023.08.23-15.00.44:503][190]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2023.08.23-15.00.44:503][190]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2023.08.23-15.00.44:503][190]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2023.08.23-15.00.44:503][190]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2023.08.23-15.00.44:503][190]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2023.08.23-15.00.44:504][190]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2023.08.23-15.00.44:507][190]MemoryProfiler: Shutdown
+[2023.08.23-15.00.44:507][190]NetworkingProfiler: Shutdown
+[2023.08.23-15.00.44:507][190]LoadingProfiler: Shutdown
+[2023.08.23-15.00.44:507][190]TimingProfiler: Shutdown
+[2023.08.23-15.00.44:508][190]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2023.08.23-15.00.44:509][190]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2023.08.23-15.00.44:509][190]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2023.08.23-15.00.44:509][190]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2023.08.23-15.00.44:509][190]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2023.08.23-15.00.44:509][190]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2023.08.23-15.00.44:509][190]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2023.08.23-15.00.44:510][190]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2023.08.23-15.00.44:511][190]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2023.08.23-15.00.44:512][190]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2023.08.23-15.00.44:512][190]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2023.08.23-15.00.44:513][190]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2023.08.23-15.00.44:513][190]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2023.08.23-15.00.44:513][190]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2023.08.23-15.00.44:514][190]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2023.08.23-15.00.44:514][190]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2023.08.23-15.00.44:514][190]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2023.08.23-15.00.44:515][190]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2023.08.23-15.00.44:515][190]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2023.08.23-15.00.44:517][190]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2023.08.23-15.00.44:517][190]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2023.08.23-15.00.44:517][190]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2023.08.23-15.00.44:517][190]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2023.08.23-15.00.44:517][190]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2023.08.23-15.00.44:517][190]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2023.08.23-15.00.44:519][190]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2023.08.23-15.00.44:519][190]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2023.08.23-15.00.44:520][190]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2023.08.23-15.00.44:522][190]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2023.08.23-15.00.44:522][190]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2023.08.23-15.00.44:533][190]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2023.08.23-15.00.44:533][190]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2023.08.23-15.00.44:533][190]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2023.08.23-15.00.44:533][190]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2023.08.23-15.00.44:534][190]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2023.08.23-15.00.44:557][190]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (723)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (721)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (719)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module TakesCore (717)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (715)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2023.08.23-15.00.44:558][190]LogModuleManager: Shutting down and abandoning module LightMixer (709)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (707)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (705)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (703)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (701)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module CollectionManager (700)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module TakeSequencer (697)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module TakeMovieScene (695)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (693)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (691)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module AlembicImporter (689)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module AlembicLibrary (688)
+[2023.08.23-15.00.44:559][190]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (685)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (683)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (681)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangePipelines (679)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeExport (677)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeMessages (675)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeImport (673)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (671)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeNodes (669)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (667)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (665)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (663)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module InterchangeEditor (661)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (657)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (655)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module StylusInput (653)
+[2023.08.23-15.00.44:560][190]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (651)
+[2023.08.23-15.00.44:561][190]LogModuleManager: Shutting down and abandoning module PluginBrowser (649)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (647)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (645)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module GLTFImporter (643)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module GLTFCore (641)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module CurveEditorTools (639)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (637)
+[2023.08.23-15.00.44:562][190]LogModuleManager: Shutting down and abandoning module EditorDebugTools (635)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (633)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module CryptoKeys (631)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module ChangelistReview (629)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (627)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (625)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module ControlRigSpline (623)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (621)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (619)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (617)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module InterchangeTests (615)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module UObjectPlugin (613)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (611)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (609)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (607)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (605)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module PluginUtils (603)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (601)
+[2023.08.23-15.00.44:563][190]LogModuleManager: Shutting down and abandoning module GitSourceControl (599)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module DumpGPUServices (597)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (595)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module UVEditorTools (593)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module UVEditor (591)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module PresetAsset (589)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (587)
+[2023.08.23-15.00.44:564][190]LogOpenImageDenoise: OIDN shutting down
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (585)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (583)
+[2023.08.23-15.00.44:564][190]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (581)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (579)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module MeshLODToolset (577)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (575)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (573)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (571)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (569)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (567)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (566)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (564)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (561)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module DataflowNodes (559)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (557)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module DataflowEditor (555)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (553)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (551)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module ChaosNiagara (549)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (547)
+[2023.08.23-15.00.44:566][190]LogModuleManager: Shutting down and abandoning module FractureEditor (545)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (543)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module AutomationUtils (541)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module BackChannel (539)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module SynthesisEditor (537)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module ResonanceAudio (535)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (533)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (531)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (529)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module ModelingOperators (527)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (525)
+[2023.08.23-15.00.44:567][190]LogModuleManager: Shutting down and abandoning module ModelingComponents (523)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryFramework (522)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (519)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module MeshModelingTools (517)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GooglePAD (515)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (513)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module InputDebugging (511)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module DynamicMesh (509)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (507)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (505)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryCache (503)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (501)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (499)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (497)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module AudioCapture (495)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (494)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (491)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module AppleImageUtils (489)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (487)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module AssetTags (485)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module AndroidPermission (483)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (481)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (479)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (477)
+[2023.08.23-15.00.44:568][190]LogModuleManager: Shutting down and abandoning module MediaPlate (475)
+[2023.08.23-15.00.44:569][190]LogModuleManager: Shutting down and abandoning module ImgMedia (473)
+[2023.08.23-15.00.44:569][190]LogModuleManager: Shutting down and abandoning module MediaCompositing (471)
+[2023.08.23-15.00.44:569][190]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (469)
+[2023.08.23-15.00.44:569][190]LogModuleManager: Shutting down and abandoning module VariantManager (467)
+[2023.08.23-15.00.44:570][190]LogModuleManager: Shutting down and abandoning module TemplateSequence (465)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (463)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module SequencerScripting (461)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (459)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (457)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (455)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (453)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module Paper2DEditor (451)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2023.08.23-15.00.44:571][190]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (437)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (435)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module FacialAnimation (433)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module DataValidation (431)
+[2023.08.23-15.00.44:572][190]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (429)
+[2023.08.23-15.00.44:573][190]LogModuleManager: Shutting down and abandoning module TreeMap (428)
+[2023.08.23-15.00.44:573][190]LogModuleManager: Shutting down and abandoning module UdpMessaging (425)
+[2023.08.23-15.00.44:674][190]LogModuleManager: Shutting down and abandoning module TcpMessaging (423)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (421)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module IKRig (419)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (417)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module ControlRig (415)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module Constraints (414)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module AnimationData (411)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (409)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (407)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module AnimationSharing (405)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (403)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module PBIK (401)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module FullBodyIK (399)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (397)
+[2023.08.23-15.00.44:774][190]LogModuleManager: Shutting down and abandoning module TakeRecorder (396)
+[2023.08.23-15.00.44:776][190]LogModuleManager: Shutting down and abandoning module LevelEditor (394)
+[2023.08.23-15.00.44:780][190]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (393)
+[2023.08.23-15.00.44:781][190]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (391)
+[2023.08.23-15.00.44:781][190]LogModuleManager: Shutting down and abandoning module MainFrame (389)
+[2023.08.23-15.00.44:781][190]LogModuleManager: Shutting down and abandoning module HotReload (388)
+[2023.08.23-15.00.44:781][190]LogModuleManager: Shutting down and abandoning module ChaosCaching (383)
+[2023.08.23-15.00.44:781][190]LogModuleManager: Shutting down and abandoning module LevelSequence (382)
+[2023.08.23-15.00.44:781][190]LogModuleManager: Shutting down and abandoning module Synthesis (379)
+[2023.08.23-15.00.44:783][190]LogModuleManager: Shutting down and abandoning module SignificanceManager (377)
+[2023.08.23-15.00.44:783][190]LogModuleManager: Shutting down and abandoning module SoundFields (375)
+[2023.08.23-15.00.44:783][190]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (373)
+[2023.08.23-15.00.44:783][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (371)
+[2023.08.23-15.00.44:783][190]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (369)
+[2023.08.23-15.00.44:783][190]LogModuleManager: Shutting down and abandoning module MetasoundEditor (367)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module AudioWidgets (366)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (365)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (361)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module MetasoundEngine (359)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module WaveTable (358)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (356)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (353)
+[2023.08.23-15.00.44:784][190]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (351)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (349)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (347)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (345)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (344)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (341)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (339)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module CableComponent (337)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (335)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (333)
+[2023.08.23-15.00.44:785][190]LogModuleManager: Shutting down and abandoning module Niagara (331)
+[2023.08.23-15.00.44:786][190]LogModuleManager: Shutting down and abandoning module SignalProcessing (330)
+[2023.08.23-15.00.44:786][190]LogModuleManager: Shutting down and abandoning module NiagaraEditor (328)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module ToolMenus (326)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module NiagaraCore (319)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (317)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module GameplayCameras (315)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module ActorSequence (313)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module Paper2D (311)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2023.08.23-15.00.44:787][190]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2023.08.23-15.00.44:927][190]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.08.23-15.00.44:928][190]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.08.23-15.00.44:929][190]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.08.23-15.00.44:929][190]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.08.23-15.00.44:929][190]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.08.23-15.00.44:929][190]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.08.23-15.00.44:930][190]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.08.23-15.00.44:931][190]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.08.23-15.00.44:931][190]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.08.23-15.00.44:932][190]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.08.23-15.00.44:932][190]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.08.23-15.00.44:933][190]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.08.23-15.00.44:933][190]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.08.23-15.00.44:933][190]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.08.23-15.00.44:934][190]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.08.23-15.00.44:936][190]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.08.23-15.00.44:937][190]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.08.23-15.00.44:937][190]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.08.23-15.00.44:937][190]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.08.23-15.00.44:948][190]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.08.23-15.00.44:948][190]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2023.08.23-15.00.44:948][190]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.08.23-15.00.44:962][190]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.08.23-15.00.44:962][190]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.08.23-15.00.44:962][190]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.08.23-15.00.44:962][190]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2023.08.23-15.00.44:963][190]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.08.23-15.00.44:964][190]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (116)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (114)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2023.08.23-15.00.44:965][190]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (110)
+[2023.08.23-15.00.44:968][190]LogModuleManager: Shutting down and abandoning module XMPP (105)
+[2023.08.23-15.00.44:968][190]LogModuleManager: Shutting down and abandoning module WebSockets (104)
+[2023.08.23-15.00.44:975][190]LogModuleManager: Shutting down and abandoning module HTTP (101)
+[2023.08.23-15.00.44:975][190]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.08.23-15.00.44:975][190]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAFF6148A-4B93-9246-528B-509D256E8F08%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=63477a2648b56e6a890810819bbd1a0f%7C45280a0f129a485cac1e7a7a96945418%7C883dfb2b-1ea3-4fcc-800c-f4689c1d8980&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.08.23-15.00.44:991][190]LogModuleManager: Shutting down and abandoning module SSL (100)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (96)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (94)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (92)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (90)
+[2023.08.23-15.00.44:994][190]RenderDocPlugin: plugin has been unloaded.
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module PixWinPlugin (88)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module ChaosCloth (86)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (84)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module ChunkDownloader (80)
+[2023.08.23-15.00.44:994][190]LogModuleManager: Shutting down and abandoning module WmfMedia (78)
+[2023.08.23-15.00.45:000][190]LogModuleManager: Shutting down and abandoning module Media (77)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (74)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (72)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module NiagaraShader (70)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module AISupportModule (68)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module GLTFExporter (66)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.08.23-15.00.45:001][190]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2023.08.23-15.00.45:002][190]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.08.23-15.00.45:002][190]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (58)
+[2023.08.23-15.00.45:003][190]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (56)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.08.23-15.00.45:004][190]LogXGEController: Cleaning working directory: C:/Users/catta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.08.23-15.00.45:004][190]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.08.23-15.00.45:006][190]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.08.23-15.00.45:007][190]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.08.23-15.00.45:008][190]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.08.23-15.00.45:008][190]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.08.23-15.00.45:009][190]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.08.23-15.00.45:010][190]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.08.23-15.00.45:460][190]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.08.23-15.00.45:582][190]LogExit: Exiting.
+[2023.08.23-15.00.45:603][190]Log file closed, 08/24/23 00:00:45
