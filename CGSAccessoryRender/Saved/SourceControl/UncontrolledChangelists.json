@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_beltAttachments_BaseColor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_beltAttachments_Normal.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_beltAttachments_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_BaseColor.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_Normal.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/T_acc_buckleBackpack_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/scroll.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/buckle.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pack.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pouchA.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-belt-accessory/CGSAccessoryRender/Content/ASSETS/pouchB.uasset"
+			]
+		}
+	]
+}
